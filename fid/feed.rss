@@ -1,0 +1,15 @@
+<rss version="2.0">
+<channel>
+    <tittle>Games online</tittle>
+    <descrption> Website about games online </descrption>
+    <link>https://marcosfdez22.github.io/LMSXI/</link>
+    <pubDate>Fri, 24 Nov 2023 09:30:02 GMT </pubDate>
+    <managingEditor>marcosdavidfdez@gmail.com</managingEditor>
+    <item>
+        <title>Ikariam</title>
+        <link>http://example.org/text.html</link>
+        <pubDate>Sat, 12 Nov 2022 18:30:02 GMT </pubDate>
+        <descrption>Some text.</descrption>
+    </item>
+</channel>
+</rss>
